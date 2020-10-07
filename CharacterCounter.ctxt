@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=str
+comment0.target=CharacterCounter(java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ CharacterCounter\n\ \n\ @param\ \ str\ \ \ set\ the\ instance\ String\ to\ str\n
+comment1.params=str
+comment1.target=void\ setWord(java.lang.String)
+comment1.text=\n\ A\ mutator\ method\ for\ the\ instance\ String\n\ \n\ @param\ \ str\ \ \ set\ the\ instance\ String\ to\ str\n
+comment2.params=letter
+comment2.target=int\ numberOf_s(java.lang.String)
+comment2.text=\n\ Counts\ the\ occurences\ of\ a\ single\ character\ String\ within\ the\ instance\ String\n\ \n\ @param\ \ letter\ \ \ a\ String\ representing\ the\ character\ to\ be\ counted\n\ @return\ \ \ \ \ the\ number\ of\ times\ the\ character\ String\ is\ found\ in\ the\ instance\ String\ \n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ toString\n\ \n\ @return\ \ \ \ \ the\ content\ of\ the\ instance\ String\ \n
+numComments=4
